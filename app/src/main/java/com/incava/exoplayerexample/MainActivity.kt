@@ -55,8 +55,7 @@ class MainActivity : AppCompatActivity() {
     }
     fun manualStop(){
         manualPlayer?.stop()
-        manualBinding.root.visibility = View.GONE
-        //iconClick = IconClick.None
+       // manualBinding.playerManual.player?.playWhenReady = false
     }
 
     // 사용 방법이 담긴 플레이어 설정

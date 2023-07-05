@@ -38,7 +38,7 @@ android {
 dependencies {
 
     // exoplayer
-    implementation group: 'com.google.android.exoplayer', name: 'exoplayer', version: '2.18.1'
+    implementation group: 'com.google.android.exoplayer', name: 'exoplayer', version: '2.18.7'
 
     implementation 'androidx.core:core-ktx:1.8.0'
     implementation 'androidx.appcompat:appcompat:1.6.1'
